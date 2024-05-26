@@ -18,8 +18,8 @@ https://www.youtube.com/results?search_query=the+allegory+of+the+cave+animated
 Αναστοχαστούν τις έννοιες της πραγματικότητας, της γνώσης και της εκπαίδευσης
 Συζητήσουν τις δικές τους ερμηνείες
 Πώς να παίξετε
-Ακολουθήστε αυτόν τον σύνδεσμο για να αποκτήσετε πρόσβαση στη δραστηριότητα Kahoot:
-https://create.kahoot.it/details/1ba3392d-6f66-41d9-9bde-72e590e44cac
+Ακολουθήστε αυτόν τον σύνδεσμο για να αποκτήσετε πρόσβαση στη δραστηριότητα Kahoot:https://create.kahoot.it/details/1ba3392d-6f66-41d9-9bde-72e590e44cac
+<iframe src="https://kahoot.it/challenge/09995238?challenge-id=7a70a862-034c-4847-8bf4-ce98a1bff623_1716741237449&amp;embed=true" name="kahoot-embed" scrolling="no" frameBorder="0" allowfullscreen="" width="650px" height="400px"></iframe>
 
 Εισάγετε τον κωδικό PIN που παρέχεται από τον οικοδεσπότη για να συμμετάσχετε στο παιχνίδι.
 Απαντήστε στις ερωτήσεις όσο το δυνατόν γρηγορότερα και με ακρίβεια.
